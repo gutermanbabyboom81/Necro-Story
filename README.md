@@ -192,4 +192,4 @@ This repository serves as the official landing page for Necro Story. The softwar
 **Get the most recent version of Necro Story today!**
 
 ---
-**Last updated:** 2026-11-11 10:35:23 UTC
+**Last updated:** 2026-11-11 18:30:25 UTC
